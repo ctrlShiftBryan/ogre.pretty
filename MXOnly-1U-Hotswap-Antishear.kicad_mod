@@ -17,6 +17,7 @@
   (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer Dwgs.User) (width 0.15))
   (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer Dwgs.User) (width 0.15))
+  
   (pad "2" thru_hole circle (at -2.54 5.08 180) (size 4 4) (drill 3) (layers *.Cu) (tstamp cee72987-eba8-48f5-9735-4e0ed462c26e))
   (pad "" np_thru_hole circle (at 0 0 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp f54c77bf-c4be-40ec-b302-d54aa654eb1c))
   (pad "1" thru_hole circle (at 3.81 2.54 180) (size 4 4) (drill 3) (layers *.Cu) (tstamp 4fc89b0f-07fc-47ce-9478-4580315d7546))
