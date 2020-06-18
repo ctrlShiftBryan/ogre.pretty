@@ -21,7 +21,7 @@
   (fp_line (start -6.35 -6.35) (end 6.35 -6.35) (layer Cmts.User) (width 0.1524))
   (fp_line (start -6.35 6.35) (end -6.35 -6.35) (layer Cmts.User) (width 0.1524))
   (fp_line (start 6.35 6.35) (end -6.35 6.35) (layer Cmts.User) (width 0.1524))
-  (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp cee72987-eba8-48f5-9735-4e0ed462c26e))
+  (pad "" np_thru_hole circle (at 2.54 -5.08) (size 2.95 2.95) (drill 3) (layers *.Cu *.Mask) (tstamp cee72987-eba8-48f5-9735-4e0ed462c26e))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp f54c77bf-c4be-40ec-b302-d54aa654eb1c))
   (pad "" np_thru_hole circle (at -3.81 -2.54) (size 2.95 2.95) (drill 2.95) (layers *.Cu *.Mask) (tstamp 4fc89b0f-07fc-47ce-9478-4580315d7546))
   (pad "1" smd rect (at -7.085 -2.54) (size 2.55 2.5) (layers "B.Paste" "B.Mask") (tstamp ca591a8f-376a-4756-808b-a713b1ebcfa9))
