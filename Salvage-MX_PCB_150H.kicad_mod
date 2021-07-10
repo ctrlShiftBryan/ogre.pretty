@@ -1,5 +1,9 @@
 (footprint "Salvage-MX_PCB_150H" (version 20210606) (generator pcbnew) (layer "F.Cu")
   (tedit 60E9D1E7)
+  (fp_text reference "MX" (at 0 3.175) (layer "Dwgs.User")
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+    (tstamp f1cab220-e00f-4871-a5ef-33296b01f2d0)
+  )
   (fp_text value "MX-NoLED" (at 0 5.08) (layer "Dwgs.User") hide
     (effects (font (size 1.27 1.524) (thickness 0.2032)))
     (tstamp be7c0ba5-18f5-440a-afcc-061899ccab58)
